@@ -1,0 +1,293 @@
+{
+    "challenges_total": 0,
+    "languages_total": 15,
+    "files_total": 37,
+    "users_total": 32,
+    "challenges_ranking": [],
+    "languages_ranking": [
+        {
+            "order": 1,
+            "name": "hooks",
+            "count": 14,
+            "percentage": 37.84
+        },
+        {
+            "order": 2,
+            "name": ".git",
+            "count": 8,
+            "percentage": 21.62
+        },
+        {
+            "order": 3,
+            "name": "origin",
+            "count": 2,
+            "percentage": 5.41
+        },
+        {
+            "order": 4,
+            "name": "heads",
+            "count": 2,
+            "percentage": 5.41
+        },
+        {
+            "order": 5,
+            "name": ".",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 6,
+            "name": "workflows",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 7,
+            "name": "logs",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 8,
+            "name": "info",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 9,
+            "name": "55",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 10,
+            "name": "05",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 11,
+            "name": "44",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 12,
+            "name": "fb",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 13,
+            "name": "a3",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 14,
+            "name": "49",
+            "count": 1,
+            "percentage": 2.7
+        },
+        {
+            "order": 15,
+            "name": "e4",
+            "count": 1,
+            "percentage": 2.7
+        }
+    ],
+    "users_ranking": [
+        {
+            "order": 1,
+            "name": "main",
+            "count": 4,
+            "languages": 2
+        },
+        {
+            "order": 2,
+            "name": "head",
+            "count": 2,
+            "languages": 2
+        },
+        {
+            "order": 3,
+            "name": "config",
+            "count": 2,
+            "languages": 1
+        },
+        {
+            "order": 4,
+            "name": "readme",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 5,
+            "name": "stats",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 6,
+            "name": "index",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 7,
+            "name": "orig_head",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 8,
+            "name": "shallow",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 9,
+            "name": "description",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 10,
+            "name": "fetch_head",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 11,
+            "name": "exclude",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 12,
+            "name": "859fdc8d65c9e2c9dc389df994e629d9f864cc",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 13,
+            "name": "d2dc83a2f45de775df4b328710f01c4f6bd2ad",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 14,
+            "name": "115621fa66d8351726ea0baadddd490db240d5",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 15,
+            "name": "715dbde930aa79133a35809ec0149669cc40fb",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 16,
+            "name": "b45e661d1f9842e9dda2dcac3c8dfa6e3a3737",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 17,
+            "name": "c0a1676143113aee49363ee70a6bd423f485f7",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 18,
+            "name": "187eeb5ae44189d3f67653dc81993dd1a7130f",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 19,
+            "name": "push-to-checkout",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 20,
+            "name": "fsmonitor-watchman",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 21,
+            "name": "pre-receive",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 22,
+            "name": "pre-applypatch",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 23,
+            "name": "post-update",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 24,
+            "name": "sendemail-validate",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 25,
+            "name": "pre-commit",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 26,
+            "name": "commit-msg",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 27,
+            "name": "prepare-commit-msg",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 28,
+            "name": "applypatch-msg",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 29,
+            "name": "pre-rebase",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 30,
+            "name": "pre-merge-commit",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 31,
+            "name": "update",
+            "count": 1,
+            "languages": 1
+        },
+        {
+            "order": 32,
+            "name": "pre-push",
+            "count": 1,
+            "languages": 1
+        }
+    ]
+}
