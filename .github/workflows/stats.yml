@@ -2,7 +2,7 @@ name: stats
 
 on: 
   push: 
-    branches: [main]
+    branches: [ main ]
 
 jobs:
     build:
@@ -13,21 +13,22 @@ jobs:
 
       steps:
         - name: Checkout repo
-          uses: actions/checkout@v4
+          uses: actions/checkout@v6
 
         - name: Setup Python
-          uses: actions/setup-python@v5
+          uses: actions/checkout@v6
           with:
             python-version: '3.13'
 
-        - name: Run Script
+        - name: Run script
           run: python ./stats.py
 
         - name: Commit and Push Changes
           uses: stefanzweifel/git-auto-commit-action@v7
           with:
             commit_message: Update stats
-            commit_user_name: Juan vargas [Github]
+            commit_user_name: juanvargas-bpsmart
+            commit_user_email: juan.vargas@bpsmart.ai
             commit_author: Juan Vargas
             
       
